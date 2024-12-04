@@ -21,7 +21,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais",AMC FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
 
@@ -210,11 +209,8 @@ https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais",A&E HD
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais",AXN SD
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais",AXN HD 
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2sa1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais",Paramount Network HD
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
@@ -346,9 +342,6 @@ http://cdn-2.nxplay.com.br/PRIME_HD/index.m3u8
 #EXTINF:-1 tvg-id="Empreender HD" tvg-name="Empreender HD" tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais",Empreender HD
 https://cc-t36qky98i4sus.akamaized.net/NewCo/Empreender_BR/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais",ARTE 1
-https://cdn-2.nxplay.com.br/ARTE1_TK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais",Film & Arts HD
 https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
@@ -466,9 +459,6 @@ https://cdn-4.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais",HGTV HD
 https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais",Animal Planet HD
-https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Canais",Pluto tv Investigação
