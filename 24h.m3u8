@@ -1,14 +1,7 @@
 #EXTM3U
 
-#################### Ajustando pra TOPIZIM
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/0/4/1/2/1032140_b31ae.png" tvg-name="Xena: A Princesa Guerreira" tvg-id="xena24h" group-title="24h" tvg-banner="https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/98naB3fD62QxroJl4k7QtU9uqLw.jpg" tvg-epg-logo="https://img1.picmix.com/output/stamp/normal/0/4/1/2/1032140_b31ae.png",XENA
+#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/0/4/1/2/1032140_b31ae.png" group-title="24h",Xena
 http://xciptv.8888play.one:80/228463308/r576049x/272707
-
-####################
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Dragon Ball
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
