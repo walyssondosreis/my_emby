@@ -1,158 +1,158 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/0/0e/Thatssoraven1234.png/revision/latest?cb=20200321202720&path-prefix=pt-br" group-title="24h",As Visões da Raven
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",As Visões da Raven
 http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/0/4/1/2/1032140_b31ae.png" group-title="24h",Xena
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Xena
 http://xciptv.8888play.one:80/228463308/r576049x/272707
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png " group-title="24h",Dragon Ball
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Dragon Ball
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_logo.svg" group-title="24h",Dragon Ball Z
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Dragon Ball Z
 http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dragon_Ball_Kai_logo.png " group-title="24h",Dragon Ball Z Kai 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Dragon Ball Z Kai 
 http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Dragon_Ball_GT_logo.png " group-title="24h",Dragon Ball Gt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Dragon Ball Gt
 http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24h",Dragon Ball Super
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Dragon Ball Super
 http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Naruto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Naruto
 http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Naruto Shippuden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Naruto Shippuden
 http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Boruto_logo.png/800px-Boruto_logo.png" group-title="24h",Boruto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Boruto
 http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Hantaro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Hantaro
 http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Jiraya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Jiraya
 http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jxg66AU.png" group-title="24h",HEY ARNOLD!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",HEY ARNOLD!
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b4e477d512590008ca6849/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="24h",Cocoricó
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Cocoricó
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24h",Bob Esponja Calça Quadrada
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Bob Esponja Calça Quadrada
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="24h",Os Padrinhos Mágicos
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Os Padrinhos Mágicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="24h",TELETUBBIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",TELETUBBIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="24h",Os Jetsons | Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV/
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="24h",Chapolin Colorado
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Chapolin Colorado
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="24h",Chaves
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Chaves
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Masha e o Urso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Masha e o Urso
 http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Pokemon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Pokemon
 http://24hrs.homelinux.com:80/24H-pokemon/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/5b/a7/ca5ba7d121989a03a9e22518a3ccaab1.png" group-title="24h",Digimon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Digimon
 http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24h",Ben 10 2005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Ben 10 2005
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Poderoso Chefinho
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Poderoso Chefinho
 http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Mickey e Donald
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Mickey e Donald
 http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Hantaro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Hantaro
 http://24hrs.homelinux.com:80/24H-hantaro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Luluzinha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Luluzinha
 http://24hrs.homelinux.com:80/24H-luluzinha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Jaspion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Jaspion
 http://24hrs.homelinux.com:80/24H-jaspion/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Thundercats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Thundercats
 http://24hrs.homelinux.com:80/24H-thundercats/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Mundo De Boby
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Mundo De Boby
 http://24hrs.homelinux.com:80/24H-ofantasticomundodeboby/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Tom & Jerry
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Tom & Jerry
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Scoobdoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Scoobdoo
 http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Popeye
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Popeye
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Os Simpsons
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Os Simpsons
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",X-Men Evolution
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",X-Men Evolution
 http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",PicaPau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",PicaPau
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="24h",Os Flingstones
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Os Flingstones
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="24h",PORTA DOS FUNDOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",PORTA DOS FUNDOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png" group-title="24h",Kenan & Kel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Kenan & Kel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc2a1cd0-5768-11ec-bbb1-31a384f93dc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9367b8bf-bc68-44c4-81ee-dc4fb8a62f65&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="24h",Diff’rent Strokes Arnold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Diff’rent Strokes Arnold
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Um Maluco no Pedaço
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Um Maluco no Pedaço
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Os Trapalhões
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Os Trapalhões
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",2 Homens e Meio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",2 Homens e Meio
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Todo Mundo Odeia O Cris
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Todo Mundo Odeia O Cris
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Pegadinhas Silvio Santos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Pegadinhas Silvio Santos
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/122-1222508_a-grande-famlia-logo-a-grande-familia-png.png" group-title="24h",A Grande Família
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",A Grande Família
 http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/9e/Escolinha_logo.png/revision/latest?cb=20200714060042 " group-title="24h",Escolinha Raimundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Escolinha Raimundo
 http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36KgNhtrgMZh3Zt4p2o9RalFvXV.png " group-title="24h",Eu a Patroa e as Crianças
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Eu a Patroa e as Crianças
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Tô d Graça
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",Tô d Graça
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="24h", Malhação Fast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h", Malhação Fast
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Escrava_Isaura.png" group-title="24h",A Escrava Isaura
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="24h",A Escrava Isaura
 https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 
