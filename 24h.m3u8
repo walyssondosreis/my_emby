@@ -138,8 +138,6 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="24h",Pegadinhas Silvio Santos
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/122-1222508_a-grande-famlia-logo-a-grande-familia-png.png" group-title="24h",A Grande Família
 http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
