@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG FHD
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais",Globo MG FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais",SBT HD
+https://aovivo.maissbt.com/channel_540.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais",Band HD
+https://stream1.freetv.fun/band-1.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais",RecordTV SP HD [Alter]
+https://stream1.freetv.fun/record-sp-2-3.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais",RedeTV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais",RedeTV! 
+https://cdn2.easy.tv.br/redetv/index.m3u8
+
