@@ -14,6 +14,6 @@ https://stream1.freetv.fun/record-sp-2-3.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais",RedeTV! 
+#EXTINF:-1 tvg-id="RedeTV!_2" tvg-name="RedeTV 2!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais",RedeTV! 
 https://cdn2.easy.tv.br/redetv/index.m3u8
 
