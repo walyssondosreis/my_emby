@@ -28,7 +28,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Canais",Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais",AMC FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
 
@@ -123,8 +122,28 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais",Cine Monde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Canais",EuropaPlay Nacional 
+https://cdn-2.nxplay.com.br/europaplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
 #EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Canais",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
+
+#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="Canais",CHANNEL ONE 
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="Canais",Moon Plus TV
+https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vhQi658.png" group-title="Canais", Filmes e Séries 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Canais",HTO FILMES
+https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Canais",TV Amor 
 
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="Canais",FilmRise
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
@@ -155,23 +174,8 @@ https://stream1.freetv.fun/tnt-2.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais",TNT FHD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
 
-#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais",TNT Séries SD
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais",TNT Séries HD
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais",TNT Séries HD [Alter]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais",Warner Channel HD
-https://stream1.freetv.fun/warner-channel-3.ctv
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais",Warner Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais",Warner Channel 4k
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais",A&E SD
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
@@ -227,35 +231,8 @@ http://15.235.50.113:14017/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais",Telecine Fun FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA SD
-http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/235177.ts
-
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA HD
 http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/2145.ts
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA HD [Alter]
-http://xciptv.8888play.one:80/228463308/r576049x/2536
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA HD [Alter] 2
-http://xciptv.8888play.one:80/228463308/r576049x/2537
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA UHD [Alter]
-http://xciptv.8888play.one:80/228463308/r576049x/21290
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA FHD
-http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/124.ts
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais",ViVA FHD [Alter]
-https://cr7v.short.gy/live3/vv/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais",TNT Novelas SD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais",TNT Novelas HD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais",TNT Novelas FHD
-https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 
 
 
@@ -382,8 +359,14 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Canais",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
 
+#EXTINF:-1 tvg-logo="https://imgur.com/XXm7kn7.png" group-title="Canais",Hello TV 
+http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
+
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Canais",Viajando pelo Brasil 
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Canais",DiaTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Canais",RedeTV!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
