@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="MG - Globo Inter TV Grande Minas" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",MG - Globo Inter TV Grande Minas
-http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8124
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="MG - Globo Inter TV Grande Minas FHD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",MG - Globo Inter TV Grande Minas FHD
-http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8126
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="MG - Globo Inter TV Grande Minas HD" tvg-logo="https://i.imgur.com/VOzcciZ.png" group-title="Canais Globo",MG - Globo Inter TV Grande Minas HD
-http://tv.iptvbrasil.live:80/LKFOODTC/ERFB8NY7/8125
+#EXTINF:-1 tvg-logo="http://z4.vc/gfx" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
+http://psrv.io:80/9089247/coreurl.me/18352
+#EXTINF:-1 tvg-logo="http://z4.vc/BEQ" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://psrv.io:80/9089247/coreurl.me/18351
+#EXTINF:-1 tvg-logo="http://z4.vc/6dU" group-ti
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais",Globo MG FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
