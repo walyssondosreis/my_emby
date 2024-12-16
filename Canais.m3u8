@@ -228,15 +228,8 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
 #EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="Canais",Receita Fast HD
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
-
-#EXTINF:-1 tvg-name="ID SD" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais",ID SD
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais",ID SD
 https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="ID HD" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais",ID HD
-http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/369.ts
-
-#EXTINF:-1 tvg-name="ID FHD" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais",ID FHD
-http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/235013.ts
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais",Discovery Turbo HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
