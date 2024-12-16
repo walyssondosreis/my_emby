@@ -238,17 +238,8 @@ http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/369.ts
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais",ID FHD
 http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/235013.ts
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais",Discovery Turbo SD
-https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais",Discovery Turbo HD
-https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais",Discovery Turbo HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais",Cultne TV
-https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais",Disc. Home & Health SD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/68
@@ -276,12 +267,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/82
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais",History 2 SD
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais",HGTV HD
-https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Canais",Os Arquivos do FBI
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Canais",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
